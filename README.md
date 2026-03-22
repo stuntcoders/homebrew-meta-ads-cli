@@ -6,5 +6,5 @@ This tap hosts the Homebrew formula for `meta-ads-cli`.
 
 ```bash
 brew tap stuntcoders/meta-ads-cli
-brew install meta-ads-cli
+brew install stuntcoders/meta-ads-cli/meta-ads-cli
 ```
